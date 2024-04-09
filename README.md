@@ -1,7 +1,7 @@
 **BTVN - SE354 - REDUX-COUNTER - REACT-NATIVE**
 
-Họ tên: **Nguyễn Trọng Ninh**
+Họ tên: **Lê Quang Nhân**
 
-MSSV: **21521252**
+MSSV: **21522402**
 
-Link video demo: [link](https://youtu.be/pCHWCIg3luA)
+Link video demo: [link](https://youtu.be/WAyeeapwP9U)
